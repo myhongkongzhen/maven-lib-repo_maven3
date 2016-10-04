@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 04 17:17:26 CST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1475572646341
+default-http\://127.0.0.1\:8888/nexus/content/groups/public/.lastUpdated=1475572641670
+http\://127.0.0.1\:8888/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.doxia\:doxia\:pom\:1.0-alpha-7 from/to nexus (http\://127.0.0.1\:8888/nexus/content/groups/public)\: Connection to http\://127.0.0.1\:8888 refused

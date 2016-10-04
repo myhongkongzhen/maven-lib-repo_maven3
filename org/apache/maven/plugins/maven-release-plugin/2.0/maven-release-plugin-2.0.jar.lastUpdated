@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 04 16:56:54 CST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1475571414438
+default-http\://127.0.0.1\:8888/nexus/content/groups/public/.lastUpdated=1475571412136
+http\://127.0.0.1\:8888/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.plugins\:maven-release-plugin\:jar\:2.0 from/to nexus (http\://127.0.0.1\:8888/nexus/content/groups/public)\: Connection to http\://127.0.0.1\:8888 refused

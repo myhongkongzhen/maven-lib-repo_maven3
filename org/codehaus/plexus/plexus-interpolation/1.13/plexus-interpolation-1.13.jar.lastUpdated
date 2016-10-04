@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 04 17:18:34 CST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1475572714727
+default-http\://127.0.0.1\:8888/nexus/content/groups/public/.lastUpdated=1475572685181
+http\://127.0.0.1\:8888/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.plexus\:plexus-interpolation\:jar\:1.13 from/to nexus (http\://127.0.0.1\:8888/nexus/content/groups/public)\: Connection to http\://127.0.0.1\:8888 refused

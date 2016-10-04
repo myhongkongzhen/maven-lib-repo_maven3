@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 04 17:08:09 CST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1475572089245
+default-http\://127.0.0.1\:8888/nexus/content/groups/public/.lastUpdated=1475572088681
+http\://127.0.0.1\:8888/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.archetypes\:maven-archetype-quickstart\:pom\:1.1 from/to local-nexus (http\://127.0.0.1\:8888/nexus/content/groups/public/)\: Connection to http\://127.0.0.1\:8888 refused

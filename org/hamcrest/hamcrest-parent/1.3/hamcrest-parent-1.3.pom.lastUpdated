@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Oct 04 16:59:06 CST 2016
+http\://repo.maven.apache.org/maven2/.lastUpdated=1475571546859
+default-http\://127.0.0.1\:8888/nexus/content/groups/public/.lastUpdated=1475571546255
+http\://127.0.0.1\:8888/nexus/content/groups/public/.error=Could not transfer artifact org.hamcrest\:hamcrest-parent\:pom\:1.3 from/to nexus (http\://127.0.0.1\:8888/nexus/content/groups/public)\: Connection to http\://127.0.0.1\:8888 refused
