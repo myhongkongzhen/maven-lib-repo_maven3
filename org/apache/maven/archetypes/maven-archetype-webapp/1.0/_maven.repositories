@@ -1,4 +1,6 @@
 #NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Tue Oct 04 17:12:18 CST 2016
+#Sat Oct 08 13:40:12 CST 2016
 maven-archetype-webapp-1.0.pom>central=
 maven-archetype-webapp-1.0.jar>central=
+maven-archetype-webapp-1.0.jar>local-nexus=
+maven-archetype-webapp-1.0.pom>local-nexus=
