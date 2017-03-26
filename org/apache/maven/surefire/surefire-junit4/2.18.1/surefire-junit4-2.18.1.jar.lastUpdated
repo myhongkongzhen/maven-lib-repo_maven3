@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Mar 25 14:23:18 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1490422998467
+default-http\://127.0.0.1\:8888/nexus/content/groups/public/.lastUpdated=1490422983156
+http\://127.0.0.1\:8888/nexus/content/groups/public/.error=Could not transfer artifact org.apache.maven.surefire\:surefire-junit4\:jar\:2.18.1 from/to nexus (http\://127.0.0.1\:8888/nexus/content/groups/public)\: Connection to http\://127.0.0.1\:8888 refused

@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sun Mar 26 12:30:52 CST 2017
+http\://repo.maven.apache.org/maven2/.lastUpdated=1490502652594
+https\://repo.spring.io/milestone/.error=
+https\://repo.spring.io/snapshot/.error=
+https\://repo.spring.io/milestone/.lastUpdated=1490502651595
+default-http\://127.0.0.1\:8888/nexus/content/groups/public/.lastUpdated=1490502651280
+http\://127.0.0.1\:8888/nexus/content/groups/public/.error=Could not transfer artifact org.noggit\:noggit\:pom\:0.6 from/to local-nexus (http\://127.0.0.1\:8888/nexus/content/groups/public/)\: d\:\\01_opensource\\maven-lib-repo\\org\\noggit\\noggit\\0.6\\noggit-0.6.pom (\u53E6\u4E00\u4E2A\u7A0B\u5E8F\u6B63\u5728\u4F7F\u7528\u6B64\u6587\u4EF6\uFF0C\u8FDB\u7A0B\u65E0\u6CD5\u8BBF\u95EE\u3002)
+https\://repo.spring.io/snapshot/.lastUpdated=1490502651894
